@@ -1,0 +1,12 @@
+[
+  {
+    "sigma": 0.3,
+    "epsilon": 0.1,
+    "seed": 42,
+    "strategy_dominance": -0.8568000000000001,
+    "mean_aggregation_size": 3.58,
+    "final_monument_level": 1364.776348969942,
+    "total_exotics": 325,
+    "mean_population": 469.01,
+    "sigma_star_theoretical": 0.6083638170708487,
+    "above_threshold": 

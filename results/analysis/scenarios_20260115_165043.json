@@ -1,0 +1,21 @@
+{
+  "low": {
+    "scenario_name": "Low Uncertainty",
+    "description": "Rare, mild shortfalls like Rapa Iti",
+    "expected_sigma_range": [
+      0.15,
+      0.35
+    ],
+    "expected_epsilon": 0.35,
+    "shortfall_interval": 18.0,
+    "shortfall_magnitude": 0.3,
+    "final_dominance": -0.9566,
+    "mean_aggregation": 1.085,
+    "final_monument": 5520.500692219815,
+    "total_exotics": 895,
+    "mean_sigma": 0.08084608542248255,
+    "mean_population": 694.6875,
+    "time_series": [
+      {
+        "year": 0,
+        "population": 

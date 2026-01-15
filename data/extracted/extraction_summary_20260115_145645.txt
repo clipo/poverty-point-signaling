@@ -1,0 +1,8 @@
+PDF Data Extraction Summary
+Generated: 2026-01-15T14:56:45.623770
+============================================================
+
+Radiocarbon dates: 7
+Measurements: 211
+Exotic goods references: 153
+Site references: 23

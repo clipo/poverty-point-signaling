@@ -1,0 +1,302 @@
+[
+  {
+    "target_sigma": 0.3,
+    "epsilon": 0.1,
+    "actual_sigma": 0.1486442237474891,
+    "dominance": -0.9419200000000001,
+    "aggregation_size": 1.452,
+    "monument_level": 2592.3488086478933,
+    "sigma_star_theoretical": 0.6083638170708487,
+    "above_threshold": false
+  },
+  {
+    "target_sigma": 0.3,
+    "epsilon": 0.2,
+    "actual_sigma": 0.14806143660475252,
+    "dominance": -0.9366400000000001,
+    "aggregation_size": 1.584,
+    "monument_level": 2851.724561662333,
+    "sigma_star_theoretical": 0.5762293032818844,
+    "above_threshold": false
+  },
+  {
+    "target_sigma": 0.3,
+    "epsilon": 0.30000000000000004,
+    "actual_sigma": 0.14749951826470759,
+    "dominance": -0.94096,
+    "aggregation_size": 1.476,
+    "monument_level": 3297.8242812066756,
+    "sigma_star_theoretical": 0.5473192381033228,
+    "above_threshold": false
+  },
+  {
+    "target_sigma": 0.3,
+    "epsilon": 0.4,
+    "actual_sigma": 0.1469573671848538,
+    "dominance": -0.9345600000000001,
+    "aggregation_size": 1.636,
+    "monument_level": 3000.1390460420785,
+    "sigma_star_theoretical": 0.5211714849215996,
+    "above_threshold": false
+  },
+  {
+    "target_sigma": 0.3,
+    "epsilon": 0.5,
+    "actual_sigma": 0.14643395802992834,
+    "dominance": -0.9264,
+    "aggregation_size": 1.84,
+    "monument_level": 3330.2609689063097,
+    "sigma_star_theoretical": 0.4974081932933486,
+    "above_threshold": false
+  },
+  {
+    "target_sigma": 0.4,
+    "epsilon": 0.1,
+    "actual_sigma": 0.15367695027332456,
+    "dominance": -0.94,
+    "aggregation_size": 1.5,
+    "monument_level": 2621.01257977536,
+    "sigma_star_theoretical": 0.6083638170708487,
+    "above_threshold": false
+  },
+  {
+    "target_sigma": 0.4,
+    "epsilon": 0.2,
+    "actual_sigma": 0.15300290881390657,
+    "dominance": -0.9321600000000001,
+    "aggregation_size": 1.696,
+    "monument_level": 2913.4505205313662,
+    "sigma_star_theoretical": 0.5762293032818844,
+    "above_threshold": false
+  },
+  {
+    "target_sigma": 0.4,
+    "epsilon": 0.30000000000000004,
+    "actual_sigma": 0.15235299030783062,
+    "dominance": -0.93744,
+    "aggregation_size": 1.564,
+    "monument_level": 3066.471546539722,
+    "sigma_star_theoretical": 0.5473192381033228,
+    "above_threshold": false
+  },
+  {
+    "target_sigma": 0.4,
+    "epsilon": 0.4,
+    "actual_sigma": 0.15172592199639606,
+    "dominance": -0.93232,
+    "aggregation_size": 1.692,
+    "monument_level": 2859.927090510791,
+    "sigma_star_theoretical": 0.5211714849215996,
+    "above_threshold": false
+  },
+  {
+    "target_sigma": 0.4,
+    "epsilon": 0.5,
+    "actual_sigma": 0.15112051914615843,
+    "dominance": -0.9299200000000001,
+    "aggregation_size": 1.752,
+    "monument_level": 3414.8742629977155,
+    "sigma_star_theoretical": 0.4974081932933486,
+    "above_threshold": false
+  },
+  {
+    "target_sigma": 0.5,
+    "epsilon": 0.1,
+    "actual_sigma": 0.28142720697876994,
+    "dominance": -0.86992,
+    "aggregation_size": 3.252,
+    "monument_level": 3817.0228260664444,
+    "sigma_star_theoretical": 0.6083638170708487,
+    "above_threshold": false
+  },
+  {
+    "target_sigma": 0.5,
+    "epsilon": 0.2,
+    "actual_sigma": 0.28068746455072646,
+    "dominance": -0.8718400000000001,
+    "aggregation_size": 3.204,
+    "monument_level": 4655.224133160371,
+    "sigma_star_theoretical": 0.5762293032818844,
+    "above_threshold": false
+  },
+  {
+    "target_sigma": 0.5,
+    "epsilon": 0.30000000000000004,
+    "actual_sigma": 0.2799740807612215,
+    "dominance": -0.86192,
+    "aggregation_size": 3.452,
+    "monument_level": 4695.012193161788,
+    "sigma_star_theoretical": 0.5473192381033228,
+    "above_threshold": false
+  },
+  {
+    "target_sigma": 0.5,
+    "epsilon": 0.4,
+    "actual_sigma": 0.2792856707660034,
+    "dominance": -0.8515199999999999,
+    "aggregation_size": 3.712,
+    "monument_level": 4948.048612534166,
+    "sigma_star_theoretical": 0.5211714849215996,
+    "above_threshold": false
+  },
+  {
+    "target_sigma": 0.5,
+    "epsilon": 0.5,
+    "actual_sigma": 0.27862094510717894,
+    "dominance": -0.83744,
+    "aggregation_size": 4.064,
+    "monument_level": 5448.523881151531,
+    "sigma_star_theoretical": 0.4974081932933486,
+    "above_threshold": false
+  },
+  {
+    "target_sigma": 0.6000000000000001,
+    "epsilon": 0.1,
+    "actual_sigma": 0.28573061089979174,
+    "dominance": -0.87328,
+    "aggregation_size": 3.168,
+    "monument_level": 4215.420765387593,
+    "sigma_star_theoretical": 0.6083638170708487,
+    "above_threshold": false
+  },
+  {
+    "target_sigma": 0.6000000000000001,
+    "epsilon": 0.2,
+    "actual_sigma": 0.2849163508367961,
+    "dominance": -0.8672000000000001,
+    "aggregation_size": 3.32,
+    "monument_level": 4433.529312756686,
+    "sigma_star_theoretical": 0.5762293032818844,
+    "above_threshold": false
+  },
+  {
+    "target_sigma": 0.6000000000000001,
+    "epsilon": 0.30000000000000004,
+    "actual_sigma": 0.28413098568769624,
+    "dominance": -0.8535999999999999,
+    "aggregation_size": 3.66,
+    "monument_level": 4690.990177095978,
+    "sigma_star_theoretical": 0.5473192381033228,
+    "above_threshold": false
+  },
+  {
+    "target_sigma": 0.6000000000000001,
+    "epsilon": 0.4,
+    "actual_sigma": 0.2833730033120547,
+    "dominance": -0.8380799999999999,
+    "aggregation_size": 4.048,
+    "monument_level": 5533.19934043025,
+    "sigma_star_theoretical": 0.5211714849215996,
+    "above_threshold": false
+  },
+  {
+    "target_sigma": 0.6000000000000001,
+    "epsilon": 0.5,
+    "actual_sigma": 0.28264099533281695,
+    "dominance": -0.8308799999999998,
+    "aggregation_size": 4.228,
+    "monument_level": 5682.105985479359,
+    "sigma_star_theoretical": 0.4974081932933486,
+    "above_threshold": false
+  },
+  {
+    "target_sigma": 0.7,
+    "epsilon": 0.1,
+    "actual_sigma": 0.5374931899298322,
+    "dominance": -0.46288,
+    "aggregation_size": 13.428,
+    "monument_level": 16459.749740895142,
+    "sigma_star_theoretical": 0.6083638170708487,
+    "above_threshold": false
+  },
+  {
+    "target_sigma": 0.7,
+    "epsilon": 0.2,
+    "actual_sigma": 0.5366454735238234,
+    "dominance": -0.4270400000000001,
+    "aggregation_size": 14.324,
+    "monument_level": 19161.809424293395,
+    "sigma_star_theoretical": 0.5762293032818844,
+    "above_threshold": false
+  },
+  {
+    "target_sigma": 0.7,
+    "epsilon": 0.30000000000000004,
+    "actual_sigma": 0.5358275076401273,
+    "dominance": -0.36576000000000003,
+    "aggregation_size": 15.856,
+    "monument_level": 22916.01273644184,
+    "sigma_star_theoretical": 0.5473192381033228,
+    "above_threshold": false
+  },
+  {
+    "target_sigma": 0.7,
+    "epsilon": 0.4,
+    "actual_sigma": 0.5350377521983253,
+    "dominance": -0.29712,
+    "aggregation_size": 17.572,
+    "monument_level": 26259.36035272662,
+    "sigma_star_theoretical": 0.5211714849215996,
+    "above_threshold": true
+  },
+  {
+    "target_sigma": 0.7,
+    "epsilon": 0.5,
+    "actual_sigma": 0.5342747716765467,
+    "dominance": -0.23904000000000003,
+    "aggregation_size": 19.024,
+    "monument_level": 32064.69572667014,
+    "sigma_star_theoretical": 0.4974081932933486,
+    "above_threshold": true
+  },
+  {
+    "target_sigma": 0.8,
+    "epsilon": 0.1,
+    "actual_sigma": 0.5436263701580777,
+    "dominance": -0.46864,
+    "aggregation_size": 13.284,
+    "monument_level": 17129.317419834737,
+    "sigma_star_theoretical": 0.6083638170708487,
+    "above_threshold": false
+  },
+  {
+    "target_sigma": 0.8,
+    "epsilon": 0.2,
+    "actual_sigma": 0.5426762962018709,
+    "dominance": -0.39472,
+    "aggregation_size": 15.132,
+    "monument_level": 20780.87003310793,
+    "sigma_star_theoretical": 0.5762293032818844,
+    "above_threshold": false
+  },
+  {
+    "target_sigma": 0.8,
+    "epsilon": 0.30000000000000004,
+    "actual_sigma": 0.541760065657232,
+    "dominance": -0.35568000000000005,
+    "aggregation_size": 16.108,
+    "monument_level": 22489.6477291223,
+    "sigma_star_theoretical": 0.5473192381033228,
+    "above_threshold": false
+  },
+  {
+    "target_sigma": 0.8,
+    "epsilon": 0.4,
+    "actual_sigma": 0.5408692691728113,
+    "dominance": -0.28928000000000004,
+    "aggregation_size": 17.768,
+    "monument_level": 26558.107365936117,
+    "sigma_star_theoretical": 0.5211714849215996,
+    "above_threshold": true
+  },
+  {
+    "target_sigma": 0.8,
+    "epsilon": 0.5,
+    "actual_sigma": 0.5400065882755533,
+    "dominance": -0.22048,
+    "aggregation_size": 19.488,
+    "monument_level": 33417.708579366146,
+    "sigma_star_theoretical": 0.4974081932933486,
+    "above_threshold": true
+  }
+]

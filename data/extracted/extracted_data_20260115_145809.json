@@ -1,0 +1,120 @@
+{
+  "extraction_date": "2026-01-15T14:58:09.641770",
+  "dates": [
+    {
+      "source": "Kidder - 2006 - Climate Change and the Archaic to Woodland Transit.pdf",
+      "page": 12,
+      "lab_number": "",
+      "date_bp": 5000,
+      "error": 2000,
+      "cal_start_bc": null,
+      "cal_end_bc": null,
+      "material": "",
+      "site": "",
+      "feature": "",
+      "raw_text": "xists for Late Archaic and Early Woodland in southeast Missouri (Lafferty and Price 1996; Lewis 1996) (Figure 1). Figure 3 and Table 2 show the regional radiocarbon chronology for the period ca. 5000-2000 B.P. (Buchner et al. 2003; Chapman et al. 1999; Lafferty 1998; Lafferty and Hess 1996). OxCal analysis of the Late Archaic and Early Woodland chronology returned a very robust agree- ment index of 107"
+    }
+  ],
+  "volumes": [
+    {
+      "source": "Kidder - 2006 - Climate Change and the Archaic to Woodland Transit.pdf",
+      "page": 2,
+      "feature": "",
+      "volume_m3": 750000.0,
+      "original_value": "750000",
+      "original_unit": "m\u00b3",
+      "notes": "",
+      "raw_text": "g cen- turies, Poverty Point culture involved unprece- dented levels of mound construction and interregional exchange exemplified at the type site, Poverty Point (16WC5), a 3 km2 complex of over 750,000 m3 of mounded earth in six nested, ellip- tical half-rings, two massive mounds, and a few smaller conical and flat-topped earthworks (Ford Tristram R. Kidder Department of Anthropology, Washington U"
+    }
+  ],
+  "exotics": [
+    {
+      "source": "DirectionalExchangePatternsDurringPovertyPoint2.pdf",
+      "page": 6,
+      "material": "galena",
+      "quantity": "1982",
+      "source_region": "",
+      "distance_km": "",
+      "artifact_type": "",
+      "site": "",
+      "raw_text": "by Frederick H. West and Robert W. Neuman, pp.7-18. Geoscience and Man VO~. 22. Louisiana State University, Baton Rouge. Walthall, John A., Clarence H. Webb, Stephan H. Stow, and Sharon I. Goad 1982 Galena analysis and Poverty Point trade, Midcontinental Journal of Archaeology 7(1): 133-148. Webb, Clarence H. 1982 The Poverty Point Culture. Geoscience and Man Vol. 17. 2nd edition, revised. Louisian"
+    },
+    {
+      "source": "Hays-2018-FeastingatPovertyPointwithPovertyPointObjects.pdf",
+      "page": 3,
+      "material": "copper",
+      "quantity": "23",
+      "source_region": "",
+      "distance_km": "",
+      "artifact_type": "",
+      "site": "",
+      "raw_text": "nt to other major Late Archaic sites. Artifacts Poverty Point Indian Knoll Riverton culture sites Plummets 2,790 0 0 Projectile points 11,714 8,714 261 Stone beads 1,214 88 51 Microliths ca. 30,000 0 23 Copper objects 155 5 ca. 4 Stone gorgets 546 3 0 Pendants 296 3 6 Celts/adzes/axes 445 187 1 Hammerstones 348 665 10 Banner/boat stones 67 43 0 Galena objects 702 0 0 Clay \ufb01gurines 133 0 0 Pipes 50+ 0 1 Ste"
+    },
+    {
+      "source": "Hays-2018-FeastingatPovertyPointwithPovertyPointObjects.pdf",
+      "page": 3,
+      "material": "steatite",
+      "quantity": "1",
+      "source_region": "",
+      "distance_km": "",
+      "artifact_type": "",
+      "site": "",
+      "raw_text": "opper objects 155 5 ca. 4 Stone gorgets 546 3 0 Pendants 296 3 6 Celts/adzes/axes 445 187 1 Hammerstones 348 665 10 Banner/boat stones 67 43 0 Galena objects 702 0 0 Clay \ufb01gurines 133 0 0 Pipes 50+ 0 1 Steatite objects 2,221 0 0 Note: Sources for information are Webb (1974, 1982) and Winters (1969). Figure 2. Example of a large concentration of PPOs at Poverty Point from N55 E15, Feature 6, Sharon I. Goad e"
+    },
+    {
+      "source": "Hays-2018-FeastingatPovertyPointwithPovertyPointObjects.pdf",
+      "page": 3,
+      "material": "galena",
+      "quantity": "0",
+      "source_region": "",
+      "distance_km": "",
+      "artifact_type": "",
+      "site": "",
+      "raw_text": "14 261 Stone beads 1,214 88 51 Microliths ca. 30,000 0 23 Copper objects 155 5 ca. 4 Stone gorgets 546 3 0 Pendants 296 3 6 Celts/adzes/axes 445 187 1 Hammerstones 348 665 10 Banner/boat stones 67 43 0 Galena objects 702 0 0 Clay \ufb01gurines 133 0 0 Pipes 50+ 0 1 Steatite objects 2,221 0 0 Note: Sources for information are Webb (1974, 1982) and Winters (1969). Figure 2. Example of a large concentration of PP"
+    },
+    {
+      "source": "Jackson-1981-PovertyPointSettlementSystems.pdf",
+      "page": 15,
+      "material": "galena",
+      "quantity": "1982",
+      "source_region": "",
+      "distance_km": "",
+      "artifact_type": "",
+      "site": "",
+      "raw_text": "ological Papers 57. Thomas P.M. and L.J. Campbell i ! 1978 The peripheries of Poverty Point. New World Research Report of Investigations 12. I Walthall, J.A., C.H. Webb, S.H. Stow, and S. Goad 1982 Galena analysis and Poverty Point trade. Mid- 1 continental Journal of Archaeology 71 1) : 133-148. Webb, Clarence H. 1968 The extent and content of Poverty Point. American Antiquity 33 : 297-321. 197"
+    },
+    {
+      "source": "Webb-1956-Poverty Point a late archaic-\u2026 papers of the American Museum of Natural \u2026-1.pdf",
+      "page": 99,
+      "material": "steatite",
+      "quantity": "3",
+      "source_region": "",
+      "distance_km": "",
+      "artifact_type": "",
+      "site": "",
+      "raw_text": "36 176 Lengths, 3.2-12.7 cm.; shapes range from crudely finished oval forms to beautifully polished long teardrops, a few pear-shaped; 162 magnetite or hematite, 1 fluorite, 8 chert, 1 igneous rock, 3 steatite, 1 baked clay; in 16, holes drilled from one side only, remainder drilled from both sides; 5 of mag- netite or hematite and 1 of chert have uncompleted perforations (Fig. 33e) Grooved (Fig. 33m-n) 41"
+    },
+    {
+      "source": "Webb-1956-Poverty Point a late archaic-\u2026 papers of the American Museum of Natural \u2026-1.pdf",
+      "page": 108,
+      "material": "galena",
+      "quantity": "14",
+      "source_region": "",
+      "distance_km": "",
+      "artifact_type": "",
+      "site": "",
+      "raw_text": ". A sharply pointed tool, possibly a piece of flint, was used to incise a groove on each face until the material was thin enough to fracture. FRAGMENTS OF GALENA Figure 34d, e The collections include 14 fragments of galena: 11 were collected on the surface, and one came from the fill of Mound B. Most of them are small and have the right-angled frac- ture planes that are normal for lead ore. How- ever, two from the surf"
+    },
+    {
+      "source": "Webb-1956-Poverty Point a late archaic-\u2026 papers of the American Museum of Natural \u2026-1.pdf",
+      "page": 110,
+      "material": "steatite",
+      "quantity": "3000",
+      "source_region": "",
+      "distance_km": "",
+      "artifact_type": "",
+      "site": "",
+      "raw_text": "robably made during the entire time ofoccupa- tion. However, the amount of pottery made was obviously very small. Our total collection of 32 fiber-tempered potsherds may be com- pared with the almost 3000 steatite vessel frag- ments recovered, or the thousands of fired-clay balls that were apparently used for cooking. This fiber-tempered pottery is very similar in appearance to that from the Tennessee River Va"
+    }
+  ]
+}

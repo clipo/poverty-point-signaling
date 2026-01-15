@@ -1,0 +1,12 @@
+{
+  "timestamp": "20260115_165629",
+  "sigma_sweep_n": 10,
+  "phase_space_n": 30,
+  "scenarios": [
+    "low",
+    "poverty_point",
+    "high",
+    "critical"
+  ],
+  "calibration_replicates": 5
+}

@@ -1,0 +1,60 @@
+{
+  "n_replicates": 5,
+  "duration": 500,
+  "monument_mean": 5258.568145886492,
+  "monument_std": 1182.8899966256567,
+  "exotics_mean": 1838.8,
+  "aggregation_mean": 2.2924444444444445,
+  "dominance_mean": -0.9083022222222222,
+  "sigma_mean": 0.19662045904820755,
+  "population_mean": 443.0013333333333,
+  "replicates": [
+    {
+      "final_monument": 5919.507453205388,
+      "total_exotics": 1909,
+      "mean_aggregation": 2.2377777777777776,
+      "final_dominance": -0.9104888888888889,
+      "mean_sigma": 0.19635005974349257,
+      "mean_population": 431.9688888888889
+    },
+    {
+      "final_monument": 3938.3577016827658,
+      "total_exotics": 1766,
+      "mean_aggregation": 2.38,
+      "final_dominance": -0.9048,
+      "mean_sigma": 0.19709611011188866,
+      "mean_population": 417.5444444444444
+    },
+    {
+      "final_monument": 4163.176529619381,
+      "total_exotics": 1730,
+      "mean_aggregation": 2.1977777777777776,
+      "final_dominance": -0.9120888888888891,
+      "mean_sigma": 0.19636612879771523,
+      "mean_population": 462.40444444444444
+    },
+    {
+      "final_monument": 5116.820562321545,
+      "total_exotics": 1797,
+      "mean_aggregation": 2.22,
+      "final_dominance": -0.9111999999999999,
+      "mean_sigma": 0.197757210707011,
+      "mean_population": 397.4688888888889
+    },
+    {
+      "final_monument": 7154.978482603384,
+      "total_exotics": 1992,
+      "mean_aggregation": 2.4266666666666667,
+      "final_dominance": -0.9029333333333335,
+      "mean_sigma": 0.19553278588093026,
+      "mean_population": 505.62
+    }
+  ],
+  "scaling_factor": 142.62437591242144,
+  "archaeological_monument": 750000,
+  "archaeological_exotics": {
+    "copper": 155,
+    "steatite": 2221,
+    "galena": 702
+  }
+}

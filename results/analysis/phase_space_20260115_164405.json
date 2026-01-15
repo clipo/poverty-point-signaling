@@ -1,0 +1,10 @@
+[
+  {
+    "target_sigma": 0.3,
+    "epsilon": 0.1,
+    "actual_sigma": 0.1486442237474891,
+    "dominance": -0.9419200000000001,
+    "aggregation_size": 1.452,
+    "monument_level": 2592.3488086478933,
+    "sigma_star_theoretical": 0.6083638170708487,
+    "above_threshold": 
