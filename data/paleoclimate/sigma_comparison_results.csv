@@ -1,0 +1,6 @@
+Site,Location,Period,Frequency (yr),Magnitude,Duration (yr),sigma_mean,sigma_std,sigma_ci_lower,sigma_ci_upper,Above Threshold,Monuments,Monument Type,Prediction Correct
+Poverty Point,"Louisiana, USA",1700-1100 BCE,10,0.45,2.12,0.648,0.132,0.406,0.94,True,True,Massive earthworks,True
+Rapa Nui,Easter Island,1200-1700 CE,6,0.6,2.5,0.956,0.086,0.703,1.0,True,True,Moai and ahu,True
+Rapa Iti,Austral Islands,1200-1800 CE,18,0.3,1.75,0.321,0.077,0.184,0.49,False,False,Minimal,True
+Watson Brake,"Louisiana, USA",3500-3000 BCE,12,0.4,2.0,0.53,0.13,0.304,0.827,True,True,Earthwork mounds,True
+Jaketown,"Mississippi, USA",1500-1000 BCE,11,0.42,2.05,0.58,0.133,0.346,0.881,True,True,Earthwork complex,True

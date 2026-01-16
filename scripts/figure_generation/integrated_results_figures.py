@@ -181,8 +181,10 @@ def create_phase_space_figure(phase_space: list) -> plt.Figure:
     # Panel A: Strategy dominance
     ax1 = axes[0]
     extent = [min(sigma_vals), max(sigma_vals), min(epsilon_vals), max(epsilon_vals)]
+    # Use interpolation='bilinear' for smooth gradients instead of blocky cells
     im1 = ax1.imshow(dominance_grid, extent=extent, origin='lower',
-                     aspect='auto', cmap=cmap, vmin=-1, vmax=0.5)
+                     aspect='auto', cmap=cmap, vmin=-1, vmax=0.5,
+                     interpolation='bilinear')
 
     # Plot theoretical critical threshold line
     from src.poverty_point.parameters import default_parameters, critical_threshold
@@ -201,8 +203,9 @@ def create_phase_space_figure(phase_space: list) -> plt.Figure:
 
     # Panel B: Monument investment
     ax2 = axes[1]
+    # Use interpolation='bilinear' for smooth gradients instead of blocky cells
     im2 = ax2.imshow(monument_grid, extent=extent, origin='lower',
-                     aspect='auto', cmap='YlOrBr')
+                     aspect='auto', cmap='YlOrBr', interpolation='bilinear')
     ax2.plot(sigma_stars, eps_line, 'k-', linewidth=2.5, label='Theoretical σ*')
     ax2.plot(sigma_stars, eps_line, 'w--', linewidth=1.5)
 
