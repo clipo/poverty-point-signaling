@@ -505,7 +505,7 @@ Simulation code and analysis results are available at https://github.com/clipo/p
 
 Conkey, M.W., 1980. The identification of prehistoric hunter-gatherer aggregation sites: The case of Altamira. Current Anthropology 21, 609-630.
 
-DiNapoli, R.J., Lipo, C.P., Brosnan, T., Hunt, T.L., Hixon, S., Morrison, A.E., Becker, M., 2021. Rapa Nui (Easter Island) monument (ahu) locations explained by freshwater sources. PLoS ONE 16, e0245008. https://doi.org/10.1371/journal.pone.0245008
+DiNapoli, R.J., Lipo, C.P., Brosnan, T., Hunt, T.L., Hixon, S., Morrison, A.E., Becker, M., 2019. Rapa Nui (Easter Island) monument (ahu) locations explained by freshwater sources. PLoS ONE 14, e0210409. https://doi.org/10.1371/journal.pone.0210409
 
 Gibson, J.L., 1999. Swamp exchange and the walled mart: Poverty Point's rock business. In: Peacock, E., Brookes, S.O. (Eds.), Raw Materials and Exchange in the Mid-South. Archaeological Report 29. Mississippi Department of Archives and History, Jackson, pp. 57-64.
 
@@ -567,9 +567,9 @@ Ortmann, A.L., Kidder, T.R., 2013. Building Mound A at Poverty Point, Louisiana:
 
 Price, G.R., 1970. Selection and covariance. Nature 227, 520-521.
 
-Sassaman, K.E., 1993. Early Pottery in the Southeast: Tradition and Innovation in Cooking Technology. University of Alabama Press, Tuscaloosa.
+Salonen, J.S., Schenk, F., Williams, J.W., Shuman, B., Lindroth Dauner, A.L., Wagner, S., Jungclaus, J., Zhang, Q., Luoto, M., 2025. Patterns and drivers of Holocene moisture variability in mid-latitude eastern North America. Nature Communications 16, 3582. https://doi.org/10.1038/s41467-025-58685-7
 
-Salonen, J.S., Seppa, H., Reitalu, T., Bjune, A.E., Luoto, T.P., 2025. Holocene hydroclimate variability in northern Europe. Scientific Data 12, 89. https://doi.org/10.1038/s41597-024-04011-x
+Sassaman, K.E., 1993. Early Pottery in the Southeast: Tradition and Innovation in Cooking Technology. University of Alabama Press, Tuscaloosa.
 
 Saunders, J., Allen, T., Labatt, D., Jones, R., Griffing, D., 2001. An assessment of the antiquity of the Lower Jackson Mound. Southeastern Archaeology 20, 67-77.
 
